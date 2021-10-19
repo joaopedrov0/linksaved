@@ -1,0 +1,20 @@
+{
+  "urls": [
+    {
+      "name": "discord",
+      "url": "https://discord.com/"
+    },
+    {
+      "name": "pizza",
+      "url": "https://pizza.com/"
+    },
+    {
+      "name": "dashdjakshd",
+      "url": "https://dasda.com/"
+    },
+    {
+      "name": "discordTest",
+      "url": "http://localhost:5000/discord.com/"
+    }
+  ]
+}
